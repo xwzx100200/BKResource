@@ -1,0 +1,16 @@
+PODS:
+  - BKResource (0.1.0)
+
+DEPENDENCIES:
+  - BKResource (from `../`)
+
+EXTERNAL SOURCES:
+  BKResource:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BKResource: 61711a3b12d2f6ba9c7649caec6609efc7cec5dd
+
+PODFILE CHECKSUM: 3c5d252751eea3e7cc893f52bb06612890638c5e
+
+COCOAPODS: 1.9.1

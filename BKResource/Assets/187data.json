@@ -1,0 +1,567 @@
+{
+    "version": "30",
+    "bindCardDetailBanksInfo": {
+        "C1010211000012": {
+          "BankName": "中国工商银行",
+          "BindCardShowIconUrl": "dcep://file/bindCardShowIconUrl_C1010211000012",
+          "CardManageEndBgColor": "#FF9B89",
+          "CardManageIconUrl": "dcep://file/cardManageIconUrl_C1010211000012",
+          "CardManageStartBgColor": "#F14847",
+          "CardManageWaterMarkUrl": "dcep://file/cardManageWaterMarkUrl_C1010211000012",
+          "MultiLanKey": "pc_ICBC",
+          "SelectBankIconUrl": "dcep://file/selectBankIconUrl_C1010211000012"
+        },
+        "C1010311000014": {
+          "BankName": "中国农业银行",
+          "BindCardShowIconUrl": "dcep://file/bindCardShowIconUrl_C1010311000014",
+          "CardManageEndBgColor": "#81C0EC",
+          "CardManageIconUrl": "dcep://file/cardManageIconUrl_C1010311000014",
+          "CardManageStartBgColor": "#2EBAAE",
+          "CardManageWaterMarkUrl": "dcep://file/cardManageWaterMarkUrl_C1010311000014",
+          "MultiLanKey": "pc_ABC",
+          "SelectBankIconUrl": "dcep://file/selectBankIconUrl_C1010311000014"
+        },
+        "C1010411000013": {
+          "BankName": "中国银行",
+          "BindCardShowIconUrl": "dcep://file/bindCardShowIconUrl_C1010411000013",
+          "CardManageEndBgColor": "#FF94B0",
+          "CardManageIconUrl": "dcep://file/cardManageIconUrl_C1010411000013",
+          "CardManageStartBgColor": "#FF686F",
+          "CardManageWaterMarkUrl": "dcep://file/cardManageWaterMarkUrl_C1010411000013",
+          "MultiLanKey": "pc_BOC",
+          "SelectBankIconUrl": "dcep://file/selectBankIconUrl_C1010411000013"
+        },
+        "C1010511003703": {
+          "BankName": "中国建设银行",
+          "BindCardShowIconUrl": "dcep://file/bindCardShowIconUrl_C1010511003703",
+          "CardManageEndBgColor": "#76A0F7",
+          "CardManageIconUrl": "dcep://file/cardManageIconUrl_C1010511003703",
+          "CardManageStartBgColor": "#005FE5",
+          "CardManageWaterMarkUrl": "dcep://file/cardManageWaterMarkUrl_C1010511003703",
+          "MultiLanKey": "pc_CCB",
+          "SelectBankIconUrl": "dcep://file/selectBankIconUrl_C1010511003703"
+        },
+        "C1030131001288": {
+          "BankName": "交通银行",
+          "BindCardShowIconUrl": "dcep://file/bindCardShowIconUrl_C1030131001288",
+          "CardManageEndBgColor": "#3B74BA",
+          "CardManageIconUrl": "dcep://file/cardManageIconUrl_C1030131001288",
+          "CardManageStartBgColor": "#00377A",
+          "CardManageWaterMarkUrl": "dcep://file/cardManageWaterMarkUrl_C1030131001288",
+          "MultiLanKey": "pc_BCM",
+          "SelectBankIconUrl": "dcep://file/selectBankIconUrl_C1030131001288"
+        },
+        "C1030211000389": {
+          "BankName": "中信银行",
+          "BindCardShowIconUrl": "dcep://file/bindCardShowIconUrl_C1030211000389",
+          "CardManageEndBgColor": "#FF9B89",
+          "CardManageIconUrl": "dcep://file/cardManageIconUrl_C1030211000389",
+          "CardManageStartBgColor": "#F14847",
+          "CardManageWaterMarkUrl": "dcep://file/cardManageWaterMarkUrl_C1030211000389",
+          "MultiLanKey": "pc_CITIC",
+          "SelectBankIconUrl": "dcep://file/selectBankIconUrl_C1030211000389"
+        },
+        "C1030511000483": {
+          "BankName": "民生银行",
+          "BindCardShowIconUrl": "dcep://file/bindCardShowIconUrl_C1030511000483",
+          "CardManageEndBgColor": "#81C0EC",
+          "CardManageIconUrl": "dcep://file/cardManageIconUrl_C1030511000483",
+          "CardManageStartBgColor": "#2EBAAE",
+          "CardManageWaterMarkUrl": "dcep://file/cardManageWaterMarkUrl_C1030511000483",
+          "MultiLanKey": "pc_CMBC",
+          "SelectBankIconUrl": "dcep://file/selectBankIconUrl_C1030511000483"
+        },
+        "C1030844001362": {
+          "BankName": "招商银行",
+          "BindCardShowIconUrl": "dcep://file/bindCardShowIconUrl_C1030844001362",
+          "CardManageEndBgColor": "#FF9B89",
+          "CardManageIconUrl": "dcep://file/cardManageIconUrl_C1030844001362",
+          "CardManageStartBgColor": "#F14847",
+          "CardManageWaterMarkUrl": "dcep://file/cardManageWaterMarkUrl_C1030844001362",
+          "MultiLanKey": "pc_CMB",
+          "SelectBankIconUrl": "dcep://file/selectBankIconUrl_C1030844001362"
+        },
+        "C1040311005293": {
+          "BankName": "中国邮储储蓄银行",
+          "BindCardShowIconUrl": "dcep://file/bindCardShowIconUrl_C1040311005293",
+          "CardManageEndBgColor": "#0AAA78",
+          "CardManageIconUrl": "dcep://file/cardManageIconUrl_C1040311005293",
+          "CardManageStartBgColor": "#027244",
+          "CardManageWaterMarkUrl": "dcep://file/cardManageWaterMarkUrl_C1040311005293",
+          "MultiLanKey": "pc_PSBC",
+          "SelectBankIconUrl": "dcep://file/selectBankIconUrl_C1040311005293"
+        },
+        "C1080211000028": {
+          "BankName": "北京银行",
+          "BindCardShowIconUrl": "dcep://file/bindCardShowIconUrl_C1080211000028",
+          "CardManageEndBgColor": "#FF9B89",
+          "CardManageIconUrl": "dcep://file/cardManageIconUrl_C1080211000028",
+          "CardManageStartBgColor": "#F14847",
+          "CardManageWaterMarkUrl": "dcep://file/cardManageWaterMarkUrl_C1080211000028",
+          "MultiLanKey": "pc_BJB",
+          "SelectBankIconUrl": "dcep://file/selectBankIconUrl_C1080211000028"
+        }
+    },
+    "fastRechargeSupportAppsList": {
+        "WL05": {
+            "C1010311000014": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1010211000012": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1010511003703": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001",
+                "CITIC001",
+                "CMB001"
+            ],
+            "C1010411000013": [
+                "BOC002",
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1030131001288": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1040311005293": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ]
+        },
+        "WL03": {
+            "C1010311000014": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1010211000012": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1010511003703": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001",
+                "CITIC001",
+                "CMB001"
+            ],
+            "C1010411000013": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1030131001288": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1040311005293": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ]
+        },
+        "WL01": {
+            "C1010311000014": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1010211000012": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1010511003703": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001",
+                "CITIC001",
+                "CMB001"
+            ],
+            "C1010411000013": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1030131001288": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1040311005293": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ]
+        },
+        "WL04": {
+            "C1010311000014": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1010211000012": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1010511003703": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001",
+                "CITIC001",
+                "CMB001"
+            ],
+            "C1010411000013": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1030131001288": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1040311005293": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ]
+        },
+        "WL02": {
+            "C1010311000014": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1010211000012": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1010511003703": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001",
+                "CITIC001",
+                "CMB001"
+            ],
+            "C1010411000013": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1030131001288": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ],
+            "C1040311005293": [
+                "ICBC001",
+                "ABC001",
+                "BOC001",
+                "CCB001",
+                "BCM001",
+                "PSBC001"
+            ]
+        }
+    },
+    "bindCardSupportBanksList": {
+        "WL02": {
+            "C1010311000014": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293"
+            ],
+            "C1010211000012": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293"
+            ],
+            "C1010511003703": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293",
+                "C1030211000389",
+                "C1030844001362"
+            ],
+            "C1010411000013": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293"
+            ],
+            "C1030131001288": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293"
+            ],
+            "C1040311005293": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293"
+            ]
+        },
+        "WL01": {
+            "C1010311000014": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293"
+            ],
+            "C1010211000012": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293"
+            ],
+            "C1010511003703": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293",
+                "C1030211000389",
+                "C1030844001362"
+            ],
+            "C1010411000013": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293"
+            ],
+            "C1030131001288": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293"
+            ],
+            "C1040311005293": [
+                "C1010211000012",
+                "C1010311000014",
+                "C1010411000013",
+                "C1010511003703",
+                "C1030131001288",
+                "C1040311005293"
+            ]
+        }
+    },
+    "fastRechargeAppsDetailInfo": {
+        "ABC001": {
+            "InstNo": "C1010311000014",
+            "MultiLanKey": "pb_ABC",
+            "AppScheme_Android": "bankabc:\/\/method=investMoney&abcParam=",
+            "AppIcon": "Padding.FastRecharge.AppIcon.ABC001",
+            "Level": "0",
+            "AppName": "中国农业银行",
+            "AppScheme": "bankabc:\/\/?method=investMoney&abcParam="
+        },
+        "BOC001": {
+            "AppName": "中国银行",
+            "AppScheme": "bocmbciphone:\/\/h5\/walletRecharge?bocParam=",
+            "AppIcon": "Padding.FastRecharge.AppIcon.BOC001",
+            "InstNo": "C1010411000013",
+            "MultiLanKey": "pb_BOC",
+            "Level": "0"
+        },
+        "BOC002": {
+            "AppName": "中银香港",
+            "AppScheme": "bochkxbk:\/\/callback?param1=",
+            "AppIcon": "Padding.FastRecharge.AppIcon.BOC002",
+            "InstNo": "C1010411000013",
+            "MultiLanKey": "pb_BOCHK",
+            "Level": "0"
+        },
+        "BCM001": {
+            "AppName": "交通银行",
+            "AppScheme": "bocom:\/\/walletrecharge?bocomParam=",
+            "AppIcon": "Padding.FastRecharge.AppIcon.BCM001",
+            "InstNo": "C1030131001288",
+            "MultiLanKey": "pb_BCM",
+            "Level": "0"
+        },
+        "BJB001": {
+            "AppName": "北京银行",
+            "AppScheme": "bankofbjpay:\/\/walletrecharge?param=",
+            "AppIcon": "Padding.FastRecharge.AppIcon.BJB001",
+            "InstNo": "C1080211000028",
+            "MultiLanKey": "pb_BJB",
+            "Level": "0"
+        },
+        "PSBC001": {
+            "AppName": "中国邮政储蓄银行",
+            "AppScheme": "psbc:\/\/mainpage:?params=",
+            "AppIcon": "Padding.FastRecharge.AppIcon.PSBC001",
+            "InstNo": "C1040311005293",
+            "MultiLanKey": "pb_PSBC",
+            "Level": "0"
+        },
+        "CITIC001": {
+            "AppName": "中信银行",
+            "AppScheme": "citicbankopen:\/\/thirdpay:8899?menu=VlWnQNU%2BzRdBw1a%2BNlRq04g%2FintZoGrm%2FuADBFblwvE%3D&type=1&citicParam=",
+            "AppIcon": "Padding.FastRecharge.AppIcon.CITIC001",
+            "InstNo": "C1030211000389",
+            "MultiLanKey": "pb_CITIC",
+            "Level": "0"
+        },
+        "CMB001": {
+            "AppName": "招商银行",
+            "AppScheme": "cmbmobilebank:\/\/CMBLS\/FunctionJump?action=gofuncid&funcid=200030&serverid=CMBEUserPay&requesttype=post&cmb_app_trans_parms_start=here&cmbParams=",
+            "AppIcon": "Padding.FastRecharge.AppIcon.CMB001",
+            "InstNo": "C1030844001362",
+            "MultiLanKey": "pb_CMB",
+            "Level": "0"
+        },
+        "ICBC001": {
+            "InstNo": "C1010211000012",
+            "MultiLanKey": "pb_ICBC",
+            "AppScheme_Android": "com.icbc.androidclient:\/\/startType=PORTALINJECT&menuId=digitCharge&injectParams=",
+            "AppIcon": "Padding.FastRecharge.AppIcon.ICBC001",
+            "Level": "0",
+            "AppName": "中国工商银行",
+            "AppScheme": "com.icbc.iphoneclient:\/\/startType=PORTALINJECT&menuId=digitCharge&injectParams="
+        },
+        "CCB001": {
+            "AppName": "中国建设银行",
+            "AppScheme": "ccbmbspbocdigtal:\/\/walletrecharge?ccbParam=",
+            "AppIcon": "Padding.FastRecharge.AppIcon.CCB001",
+            "InstNo": "C1010511003703",
+            "MultiLanKey": "pb_CCB",
+            "Level": "0"
+        },
+        "CMBC001": {
+            "AppName": "民生银行",
+            "AppScheme": "cmbc:\/\/center.mbank?&webPageparam={\"message\":{\"MK_TYPE\":\"1\",\"MK_URL\":\"new%2fapp%2fmobile-bank%2fdigital-wallet\",\"LOGIN_FLAG\":\"1\"},\"info\":{\"style\":\"1\"}}&ecparam=",
+            "AppIcon": "Padding.FastRecharge.AppIcon.CMBC001",
+            "InstNo": "C1030511000483",
+            "MultiLanKey": "pb_CMBC",
+            "Level": "0"
+        }
+    }
+}
+

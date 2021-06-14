@@ -1,0 +1,22 @@
+{
+  "name": "BKResource",
+  "version": "0.1.0",
+  "summary": "A short description of BKResource.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xwzx100200@163.com/BKResource",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xwzx100200@163.com": "xwzx100200@163.com"
+  },
+  "source": {
+    "git": "https://github.com/xwzx100200@163.com/BKResource.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BKResource/Classes/**/*"
+}

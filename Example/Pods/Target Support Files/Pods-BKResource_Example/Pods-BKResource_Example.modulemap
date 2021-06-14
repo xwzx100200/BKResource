@@ -1,0 +1,6 @@
+framework module Pods_BKResource_Example {
+  umbrella header "Pods-BKResource_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
